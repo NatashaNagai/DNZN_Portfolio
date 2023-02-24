@@ -1,0 +1,30 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+  
+  #wrapper {
+      margin: 0 auto; 
+      background-color: white;
+  } 
+  
+  #navRight{
+   float: right;
+  }
+  
+  #navRight a{
+    float: right;
+    text-align: center;
+    padding: 8px 8px;
+  }
+  
+  #logo{
+    float: left;
+    text-align: center;
+    padding-left: 930px;
+  }
+  
+  #allSoundThings {
+    padding-top: 400px;
+    text-align: center; 
+  }
